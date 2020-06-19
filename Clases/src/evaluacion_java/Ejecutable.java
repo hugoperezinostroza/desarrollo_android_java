@@ -1,3 +1,8 @@
+/*	Ejercicio:	Evaluación Nro 2 - POO Java
+ * 	Curso:		Desarrollo de Apps Android
+ *  Alumno:		Hugo Pérez
+ */
+
 package evaluacion_java;
 
 public class Ejecutable {
